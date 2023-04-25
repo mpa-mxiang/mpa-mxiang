@@ -6,16 +6,16 @@
 - 🔭 &nbsp; I’m currently learning more programming skills.
 - 🤔 &nbsp; I am looking forward to exploring and learn new technologies.
 - 🎓 &nbsp; Computer Science graduate with Math minor.
-- 💼 &nbsp; Enthusiast software developer.
+- 💼 &nbsp; Aspiring software developer.
 - 📫 You can contact me at jcxiang1230@gmail.com
 - ☕ &nbsp; food, travel, baseball, and more to explore.
 - ✍️ &nbsp; Practice makes perfect.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | C | Java
-- 🌐 &nbsp; HTML | CSS | Javascript | Bootstrap | React 
-- 🔧 &nbsp; PyCharm | Visual Studio code | GitHub/Git | o
+- 💻 &nbsp; Python | C | Java | SQL
+- 🌐 &nbsp; HTML | CSS | Javascript | Bootstrap | React | PHP
+- 🔧 &nbsp; PyCharm | Visual Studio code | GitHub/Git | Netbeans | Eclipse
 
 <br>
 

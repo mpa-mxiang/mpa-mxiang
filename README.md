@@ -10,7 +10,7 @@
 - 📫 You can contact me at jcxiang1230@gmail.com
 - ☕ &nbsp; food, travel, baseball, and more to explore.
 - ✍️ &nbsp; Practice makes perfect.
-
+- 🖇️ &nbsp; [LinkedIn](https://www.linkedin.com/in/jiachunlilyxiang/)
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | C | Java | SQL

@@ -8,7 +8,7 @@
 - 🎓 &nbsp; Computer Science graduate with Math minor.
 - 💼 &nbsp; Aspiring software developer.
 - 📫 You can contact me at jcxiang1230@gmail.com
-- ☕ &nbsp; food, travel, baseball, and more to explore.
+- ☕ &nbsp; food, travel, sports, and more to explore.
 - ✍️ &nbsp; Practice makes perfect.
 - 🖇️ &nbsp; [LinkedIn](https://www.linkedin.com/in/jiachunlilyxiang/)
 <h3>🛠 Tech Stack</h3>

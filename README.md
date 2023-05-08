@@ -30,7 +30,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mpa-mxiang&langs_count=8)](https://github.com/anuraghazra/github-readme-stats&theme=nightowl)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mpa-mxiang&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 
 

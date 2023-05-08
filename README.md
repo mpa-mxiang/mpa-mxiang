@@ -23,16 +23,15 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mpa-mxiang&show_icons=true&theme=nightowl&hide_border=false&env=PAT_1&)
-
+![Jiachun's GitHub stats](https://github-readme-stats.vercel.app/api?username=mpa-mxiang&show_icons=true&theme=nightowl)
 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mpa-mxiang&theme=nightowl&hide_border=false)
 
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mpa-mxiang&langs_count=8)](https://github.com/anuraghazra/github-readme-stats&theme=nightowl)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mpa-mxiang&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact&env=PAT_1&)
 
 
 ## 🏆 GitHub Trophies

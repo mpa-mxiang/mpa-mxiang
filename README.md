@@ -41,8 +41,6 @@
 
 
 <img display="none" src="https://profile-counter.glitch.me/mpa-mxiang/count.svg" />
-<h3 align="left">Support:</h3>
-<p><a href="
-https://bmc.link/max997123T"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Jiachun Xiang" /></a></p><br><br>
+
 
 

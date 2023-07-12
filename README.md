@@ -28,9 +28,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mpa-mxiang&theme=nightowl&hide_border=false)
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mpa-mxiang&theme=nightowl&layout=compact)
 
 
-<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mpa-mxiang&theme=nightowl&line_height=40&hide=css"/> </a>
 
 
 ## 🏆 GitHub Trophies

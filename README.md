@@ -81,6 +81,14 @@
 <a href="https://github.com/mpa-mxiang">
 </div>
 
+<div align="center">
+  <h2>🐍 Snake eating my contribution 🐍</h2>
+  <br>
+  <img alt="snake eating my contribution" src="https://github.com/mpa-mxiang/mpa-mxiang/blob/output/github-contribution-grid-snake.gif">
+  <br>
+  <br>
+  <br>
+</div>
 
 
 

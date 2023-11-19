@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **RoR**
+- 🌱 I’m currently learning **backend, full stack**
 - 💬 Ask me about **React, API**
 - 📫 How to reach me **jcxiang1230@gmail.com**
 

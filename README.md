@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **Tableau**
+- 🌱 I’m currently learning **Django, Firebase**
 - 💬 Ask me about **Python, Java**
 - 📫 How to reach me **jcxiang1230@gmail.com**
 

@@ -8,7 +8,7 @@
 
 
 - 🌱 I’m currently learning **Django, Firebase**
-- 💬 Ask me about **Python, Java**
+- 💬 Ask me about **Python, OOP**
 - 📫 How to reach me **jcxiang1230@gmail.com**
 
 <div> <a href="https://twitter.com/maxNpo2" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
